@@ -1,0 +1,4 @@
+configparser
+python-dotenv
+secure-smtplib
+ssl
